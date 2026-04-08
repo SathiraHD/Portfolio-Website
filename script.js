@@ -237,7 +237,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
 // Typing effect
 const typingText = document.getElementById("typing-text")
-const phrases = ["Software Developer", "UI/UX Designer", "Front-end Developer"]
+const phrases = ["UI/UX Designer", "3D Modling and Character Designer"]
 let phraseIndex = 0
 let letterIndex = 0
 let currentPhrase = ""
